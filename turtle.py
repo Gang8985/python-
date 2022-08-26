@@ -7,4 +7,4 @@ while True:
     if abs(pos()) < 15:
         break
 end_fill()
-done()
+
